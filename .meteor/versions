@@ -68,6 +68,8 @@ orionjs:collections@1.2.0
 orionjs:config@1.2.0
 orionjs:core@1.2.0
 orionjs:dictionary@1.2.0
+orionjs:filesystem@1.1.0
+orionjs:image-attribute@1.1.4
 orionjs:lang-en@1.2.0
 random@1.0.3
 reactive-dict@1.1.0
