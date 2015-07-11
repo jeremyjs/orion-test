@@ -1,0 +1,6 @@
+{
+  "public": {
+    "houston_root_route": "/root/admin",
+    "houston_documents_per_page": 100
+  }
+}
